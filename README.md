@@ -1,1 +1,1 @@
-# Projeto-Banco-de-Dados-das-Estat-sticas-da-NBA
+# Projeto: Banco de Dados Estatísticas da NBA
