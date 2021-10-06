@@ -9,4 +9,4 @@
 - A venda de um produto só é realizada por um funcionário.
 - Os funcionários têm nome, idade e CPF.
 - Os clientes têm ID, Endereço e assinatura. 
-- Existe um cargo entre os funcionário, Gerente, que supervisiona os demais.
+- Existe um cargo entre os funcionários, Gerente, que supervisiona os demais.
