@@ -1,6 +1,6 @@
-Projeto: Banco de Dados Estatísticas da NBA
+Projeto: Banco de Dados da Dunder Mifflin
 
-Repositório: https://github.com/Hbprado/Banco-de-Dados-Estat-sticas-da-NBA
+Repositório: https://github.com/Hbprado/Banco-de-Dados-da-Dunder-Mifflin
 
 Equipe:
 
