@@ -1,9 +1,8 @@
 #### Mini-Mundo:
 
-- Uma **fábrica** tem <u>CNPJ</u> e Endereço.
 - Uma **distribuidora** têm <u>Código Regional</u> e Estoque.
-- A **distribuidora** compra de uma única fábrica.
-- O **cliente** compra de várias **distribuidoras**.
+- A **distribuidora** fornece vários produtos.
+- O **Produto** pode ser fornceido por várias **distribuidoras**.
 - As **distribuidoras** vendem para vários **clientes**.
 - Cada **distribuidora** é identificada através do <u>código regional</u>.
 - Um **funcionário** têm Nome, Número, Idade e Telefone (Pessoal + Trabalho).
