@@ -179,7 +179,6 @@ VALUES (1, 11, null);
 
 INSERT INTO vendedor(id_distribuidora, id_funcionario, id_gerente)
 VALUES (1, 12, 1);
-VALUES (1, 12, 1);
 
 INSERT INTO vendedor(id_distribuidora, id_funcionario, id_gerente)
 VALUES (1, 13, null);
