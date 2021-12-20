@@ -9,7 +9,7 @@ GROUP BY id_funcionario
 HAVING COUNT(*) > 3;
 
 #Subconsulta
-#Todos os nomes dos funcionarios com idade maior que o gerente de id = '2'
+#Todos os nomes dos funcionarios com idade menor que o gerente de id = '2'
 SELECT F.nome, F.idade
 FROM funcionario F
 WHERE F.idade < (
